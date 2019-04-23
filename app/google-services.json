@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "564063020284",
+    "firebase_url": "https://tryfirebaseproject-e1dbb.firebaseio.com",
+    "project_id": "tryfirebaseproject-e1dbb",
+    "storage_bucket": "tryfirebaseproject-e1dbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564063020284:android:be6b7ecd97f6502e",
+        "android_client_info": {
+          "package_name": "ilham.firstapp.com.atry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564063020284-oeb6sb64l7cqo3ej3ns0mq39td9vu03b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ilham.firstapp.com.atry",
+            "certificate_hash": "bf2ebad120c3cfa4e9c46a09abdf3153d59ab961"
+          }
+        },
+        {
+          "client_id": "564063020284-tfc9cmdfnlul6f3cueapdt5vk1016n70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVHolRl8oq-LCgc7onTs0nLP3AM0Otud4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564063020284-tfc9cmdfnlul6f3cueapdt5vk1016n70.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

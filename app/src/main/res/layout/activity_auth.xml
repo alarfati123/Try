@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/one"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AuthActivity"
+    android:gravity="center"
+    android:orientation="vertical">
+    <EditText
+        android:id="@+id/phone_number"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter phone number"/>
+
+    <LinearLayout
+        android:id="@+id/two"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:ignore="InvalidId">
+
+
+    <EditText
+        android:id="@+id/verify"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="verify code"/>
+    </LinearLayout>
+    <Button
+        android:id="@+id/login"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Login"/>
+
+</LinearLayout>
